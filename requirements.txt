@@ -1,9 +1,7 @@
-langchain-community        
-langchain-core             
-streamlit                 
-langchain                  
-python-dotenv             
-langchain_groq             
-transformers               
+streamlit
+python-dotenv
+requests
 scholarly
-autogen
+autogen-agentchat
+autogen-ext
+openai
